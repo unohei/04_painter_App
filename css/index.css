@@ -1,0 +1,24 @@
+body {
+  background: #000;
+  color: #fff;
+  font-family: "Press Start 2P", monospace;
+  padding: 20px;
+}
+
+.window {
+  border: 4px solid #fff;
+  padding: 20px;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#board {
+  background: #000;
+  border: 2px solid #fff;
+  image-rendering: pixelated;
+}
